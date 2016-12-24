@@ -80,6 +80,11 @@ img {max-width: 100%;}
 .navbar-collapse {
 	padding:0;
 }
+
+.profpic{
+	border: 4px solid white;
+}
+
 .navbar-collapse.in {
 	max-height:100%;
 }
@@ -149,7 +154,7 @@ img {max-width: 100%;}
 }
 /* --- Intro --- */
 header {
-	padding-bottom:50px;
+	padding-bottom:0px;
 }
 .intro {
 	font-family:'Playball',cursive;
@@ -159,7 +164,7 @@ header {
 }
 
 .intro a {
-	color:#000;
+	color: white;
 }
 
 /* --- Parallax --- */
@@ -181,7 +186,7 @@ header {
 	text-align:center;
 	max-width:960px;
 	margin:0px auto;
-	padding-top:80px;
+	padding-top:20px;
 }
 .heading h2 {
 	font-weight:700;
